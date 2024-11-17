@@ -8,6 +8,7 @@ import Profile from "./Pages/Profile"
 import Login from "./Pages/Login"
 import Appointment from "./Pages/Appointment"
 import Navbar from "./Components/Navbar"
+import Footer from "./Components/Footer"
 
 function App() {
  
@@ -27,7 +28,7 @@ function App() {
         <Route path="/appointment/:docId" element={<Appointment/>} />
 
       </Routes>
-     
+      <Footer />
     </div>
   )
 }
