@@ -10,7 +10,7 @@ function Contact() {
         <img className="w-full max-w-[360px]" src={assets.contact_image} alt="" />
       
       <div className="flex flex-col justify-center items-start gap-6">
-        <p className="font-semibold text-lg text-gray-600">Our OFFICE</p>
+        <p className="font-semibold text-lg text-gray-600">OUR OFFICE</p>
         <p className="text-gray-500">#3 Ezimba street <br />Aba, Abia State  Nigeria</p>
         <p className="text-gray-500">Tel: +2349015951860 <br />Email: techiegold101@gmail.com</p>
         <p className="font-semibold text-lg text-gray-600">CAREERS AT DOCTORLY</p>
